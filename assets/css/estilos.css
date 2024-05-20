@@ -35,6 +35,11 @@ border: #373a3c;
   background-color: black;
 }
 
+.bg-color{
+  background: rgb(157,72,179);
+background: linear-gradient(172deg, rgba(157,72,179,0.8127626050420168) 4%, rgba(204,25,255,1) 44%, rgba(216,113,230,1) 99%);
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
