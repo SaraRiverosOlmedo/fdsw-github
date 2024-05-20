@@ -26,6 +26,14 @@ body {
   font-weight: 700;
   color: #373a3c;
 }
+.colorbg{
+background-color: blueviolet;
+border: #373a3c;
+
+}
+.colorbg:hover{
+  background-color: black;
+}
 
 @media (max-width: 768px) {
   #Contacto form label {
